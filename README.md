@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
    <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
    <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
-   <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp; 
-  <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
 </div>
 
 ### :woman_technologist: About Me :
