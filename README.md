@@ -15,7 +15,7 @@ I'm a junior fronted developer.
 Education:
 
 - [x] Development and Promotion of Web Projects (Computer Academy Step) (2020 - 2021);
-- [x] basics of front-end development (Innopolis University) (2021);
+- [x] Basics of front-end development (Innopolis University) (2021);
 - [ ] JS/Frontend (RS School) (2023 - ....);
 
 ---
