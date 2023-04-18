@@ -4,11 +4,15 @@
 
 I'm a junior fronted developer.
 
+
+
 Education:
 
 - [x] Development and Promotion of Web Projects (Computer Academy Step) (2020 - 2021);
 - [x] Basics of front-end development (Innopolis University) (2021);
 - [ ] JS/Frontend (RS School) (2023 - ....);
+
+<img src="https://www.codewars.com/users/rsschool_d84185bfe82c7390/badges/micro" title="codewars" alt="codewars">
 
 ---
 
@@ -33,8 +37,8 @@ Education:
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-
 </div>
+
 ---
 
 ### :fire: My Stats :
