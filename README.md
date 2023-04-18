@@ -1,11 +1,5 @@
 ### Hi there 👋
 ---
-<div id="header" align = "center"> 
-  <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
-   <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
-   <img src="https://media.giphy.com/media/xT8qBkwthizWIhhtDi/giphy.gif" width="180"/>&nbsp;
-</div>
-
 ### :woman_technologist: About Me :
 
 I'm a junior fronted developer.
