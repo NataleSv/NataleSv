@@ -10,11 +10,17 @@ Education:
 
 - [x] Development and Promotion of Web Projects (Computer Academy Step) (2020 - 2021);
 - [x] Basics of front-end development (Innopolis University) (2021);
+- [x] JavaScript Advanced (PurpleShool) (2023);
 - [ ] JS/Frontend (RS School) (2023 - ....);
 
 <img src="https://www.codewars.com/users/rsschool_d84185bfe82c7390/badges/micro" title="codewars" alt="codewars">
 
 ---
+Portfolio:
+
+![virtual-keyboard](https://natalesv.github.io/virtual-keyboard/src/index.html) <br/>
+![cozy-house](https://rolling-scopes-school.github.io/natalesv-JSFE2023Q1/shelter/pages/main/)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
