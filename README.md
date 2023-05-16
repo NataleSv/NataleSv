@@ -21,6 +21,7 @@ Portfolio:
 [Virtual-keyboard](https://natalesv.github.io/virtual-keyboard/src/index.html) <br/>
 [Cozy-house](https://rolling-scopes-school.github.io/natalesv-JSFE2023Q1/shelter/pages/main/)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
