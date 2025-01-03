@@ -16,6 +16,7 @@ Education:
 <img src="https://www.codewars.com/users/rsschool_d84185bfe82c7390/badges/micro" title="codewars" alt="codewars">
 
 ---
+<!--
 Portfolio:
 
 [Virtual-keyboard](https://natalesv.github.io/virtual-keyboard/src/index.html) <br/>
@@ -52,3 +53,4 @@ Portfolio:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataleSv&show_icons=true&theme=radical) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataleSv&hide_progress=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
