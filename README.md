@@ -12,11 +12,11 @@ Education:
 - [x] Basics of front-end development (Innopolis University) (2021);
 - [x] JavaScript Advanced (PurpleShool) (2023);
 
-
+<!--
 <img src="https://www.codewars.com/users/rsschool_d84185bfe82c7390/badges/micro" title="codewars" alt="codewars">
 
 ---
-<!--
+
 Portfolio:
 
 [Virtual-keyboard](https://natalesv.github.io/virtual-keyboard/src/index.html) <br/>
