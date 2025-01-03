@@ -2,7 +2,7 @@
 ---
 ### :woman_technologist: About Me :
 
-I'm a junior fronted developer.
+I'm a fronted developer.
 
 
 
@@ -11,7 +11,7 @@ Education:
 - [x] Development and Promotion of Web Projects (Computer Academy Step) (2020 - 2021);
 - [x] Basics of front-end development (Innopolis University) (2021);
 - [x] JavaScript Advanced (PurpleShool) (2023);
-- [ ] JS/Frontend (RS School) (2023 - ....);
+
 
 <img src="https://www.codewars.com/users/rsschool_d84185bfe82c7390/badges/micro" title="codewars" alt="codewars">
 
